@@ -1,0 +1,15 @@
+{
+  "name": "cleartaxnodeapi",
+  "version": "1.0.0",
+  "description": "Text File to API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pragyan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
